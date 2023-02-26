@@ -13,7 +13,7 @@ this video really help me to understand step by step the weekly assignment. Apar
 3. [Regular Expression Tutorial](https://youtu.be/bgBWp9EIlMM)<br>
 in this video explains about regular expressions and it help me to understand about regex.
 
-4.[Mouting VirtualBox shared folder](https://gist.github.com/estorgio/1d679f962e8209f8a9232f7593683265)<br>
+4. [Mouting VirtualBox shared folder](https://gist.github.com/estorgio/1d679f962e8209f8a9232f7593683265)<br>
 This link really helped me when working on quiz 02 to move the tar file contained in the virtual machine into the local file explorer.
 
 
