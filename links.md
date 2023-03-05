@@ -24,7 +24,7 @@ This link really helped me when working on quiz 02 to move the tar file containe
 this article really help me to understand about FUSE. This article contains about definition and basic understanding of FUSE.
 
 2. [Structure Linux File Hierarchy](https://www.geeksforgeeks.org/linux-file-hierarchy-structure/)<br>
-Do you know what is Linux File Hierarchy Structure or the Filesystem Hierarchy Standard (FHS)? This article really helped me to understand what is Linux FHS.d
+Do you know what is Linux File Hierarchy Structure or the Filesystem Hierarchy Standard (FHS)? This article really helped me to understand what is Linux FHS.
 
 
 <br>
