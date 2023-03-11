@@ -26,6 +26,13 @@ this article really help me to understand about FUSE. This article contains abou
 2. [Structure Linux File Hierarchy](https://www.geeksforgeeks.org/linux-file-hierarchy-structure/)<br>
 Do you know what is Linux File Hierarchy Structure or the Filesystem Hierarchy Standard (FHS)? This article really helped me to understand what is Linux FHS.
 
+## Week 04
+1. [Linux Static Libraries & Dynamic Libraries](https://medium.com/swlh/linux-basics-static-libraries-vs-dynamic-libraries-a7bcf8157779)<br>
+This article contains about how dynamic and static libraries work in C programs.
+
+2. [Learn C Programming](https://www.programiz.com/c-programming)<br>
+This article explains how to learn C step by step with exercise. Easy to understand.
+
 
 <br>
 <hr>
