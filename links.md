@@ -33,6 +33,16 @@ This article contains about how dynamic and static libraries work in C programs.
 2. [Learn C Programming](https://www.programiz.com/c-programming)<br>
 This article explains how to learn C step by step with exercise. Easy to understand.
 
+## Week 05
+
+1. [What is virtual memory?](https://tldp.org/LDP/sag/html/vm-intro.html#:~:text=Linux%20supports%20virtual%20memory%2C%20that,be%20used%20for%20another%20purpose.)<br>
+ This article explains about the concept of virtual memory and it correlates a lot with linux. I think you will get some good new knowledge.
+
+2. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
+This article explains about the concept of virtual memory in operating system, swapping, demand paging, etc. Very useful if u want to learn more about virtual memory in operating system.
+
+
+
 
 <br>
 <hr>
