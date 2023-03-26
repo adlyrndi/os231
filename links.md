@@ -43,10 +43,10 @@ This article explains about the concept of virtual memory in operating system, s
 
 ## Week 06
 
-1. [Threads and Concurrency](https://applied-programming.github.io/Operating-Systems-Notes/3-Threads-and-Concurrency/)
+1. [Threads and Concurrency](https://applied-programming.github.io/Operating-Systems-Notes/3-Threads-and-Concurrency/)<br>
 informative article that help me to understand this week's topic.
 
-2. [fork() in C](https://www.geeksforgeeks.org/fork-system-call/)
+2. [fork() in C](https://www.geeksforgeeks.org/fork-system-call/)<br>
 Do you know what is Fork? Generally, forking can be used for creating new process called child process. This website help me to understand fork in c.
 
 
