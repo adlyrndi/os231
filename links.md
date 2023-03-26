@@ -41,6 +41,13 @@ This article explains how to learn C step by step with exercise. Easy to underst
 2. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
 This article explains about the concept of virtual memory in operating system, swapping, demand paging, etc. Very useful if u want to learn more about virtual memory in operating system.
 
+## Week 06
+
+1. [Threads and Concurrency](https://applied-programming.github.io/Operating-Systems-Notes/3-Threads-and-Concurrency/)
+informative article that help me to understand this week's topic.
+
+2. [fork() in C](https://www.geeksforgeeks.org/fork-system-call/)
+Do you know what is Fork? Generally, forking can be used for creating new process called child process. This website help me to understand fork in c.
 
 
 
