@@ -49,6 +49,15 @@ informative article that help me to understand this week's topic.
 2. [fork() in C](https://www.geeksforgeeks.org/fork-system-call/)<br>
 Do you know what is Fork? Generally, forking can be used for creating new process called child process. This website help me to understand fork in c.
 
+## Week 07
+
+1. [Process Synchronization in Linux](https://www.tutorialspoint.com/process-synchronization-in-linux)<br>
+This article explains about process synchronization in linux. Easy to understand.
+
+2. [Semaphores in Process Synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/)<br>
+This article explains about how Semaphore technique works and shows a bit of its implementation in C++ language. Very good article and easy to understand.
+
+
 
 
 <br>
